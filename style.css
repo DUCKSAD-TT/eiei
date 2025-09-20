@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    scrollbar-width: 0px;
+    background-color: #363636;
+    padding: 25px;
+}
+label{
+    color: snow;
+    font-size: auto;
+}
+video{
+    width: 80%;
+    height: auto;
+    border-radius: 20px;
+    box-shadow:20 20 20px cyan;
+}
+.vedo{
+    box-shadow:20 20 20px cyan;
+}
